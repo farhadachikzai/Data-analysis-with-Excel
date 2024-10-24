@@ -1,1 +1,1 @@
-# Ecommerce-Data-analysis
+this project is a real world seneoro based on which number of people lost their valuble parts of body such leg, arm, eyes and finally a rescue committee  come to the ground and working for reintegration in community and building  orthopedic arms for them. 
